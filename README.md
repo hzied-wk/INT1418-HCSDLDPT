@@ -1,6 +1,6 @@
 # INT1418 - Hệ Cơ Sở Dữ Liệu Đa Phương Tiện (PTIT)
 
-> **Note:** Source code bài tập lớn Bird Image Search System - Hệ thống Tìm kiếm Ảnh Chim (Bird Image Search System) : [https://github.com/b22dccn256/bird-search-system](https://github.com/b22dccn256/bird-search-system)
+> **Note:** Source code bài tập lớn Bird Image Search System - Hệ thống Tìm kiếm Ảnh Chim (Bird Search System) : [https://github.com/b22dccn256/bird-search-system](https://github.com/b22dccn256/bird-search-system)
 
 > [!CAUTION]
 > ### 🚨 LƯU Ý ĐẶC BIỆT QUAN TRỌNG KHI BÁO CÁO (THẦY HÓA)
